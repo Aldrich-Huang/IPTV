@@ -1,32 +1,5 @@
 EXTM3U
 
-#EXTINF:-1,iLive|民視新聞
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1,iLive|日本NEWS24 ???配信
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1,iLive|壹新聞
-http://wowza4.nexttv.com.tw/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist_w.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_TWexttv_2.m3u8
-#EXTINF:-1,iLive|TVBS新聞HD
-https://bcsecurelivehls-i.akamaihd.net/hls/live/510713/4862438529001/indexTVBS-N-HD-CH1-M.m3u8
-#EXTINF:-1,iLive|TVBS歡樂台
-http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
-#EXTINF:-1,iLive|台視
-https://livestream.ad2engage.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
-#EXTINF:-1,iLive|非凡新聞HD
-http://210.201.54.101/glive/ustvhd/chunklist_w2013311868.m3u8
-#EXTINF:-1,iLive|日本映畫
-http://218.60.94.32:1935/live/cs19.stream/playlist.m3u8#http://211.21.12.236:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1,iLive|富士 1
-http://218.60.94.32:1935/live/cs24.stream/playlist.m3u8#http://211.21.12.236:1935/live/cs24.stream/playlist.m3u8
-#EXTINF:-1,iLive|富士 2
-http://218.60.94.32:1935/live/cs33.stream/playlist.m3u8#http://211.21.12.236:1935/live/cs33.stream/playlist.m3u8
-#EXTINF:-1,iLive|朝日 1
-http://218.60.94.32:1935/live/cs21.stream/playlist.m3u8#http://211.21.12.236:1935/live/cs21.stream/playlist.m3u8
-#EXTINF:-1,iLive|朝日 2
-http://218.60.94.32:1935/live/cs22.stream/playlist.m3u8#http://211.21.12.236:1935/live/cs22.stream/playlist.m3u8
-#EXTINF:-1,iLive|衛星劇場
-http://211.21.12.236:1935/live/cs18.stream/playlist.m3u8#http://218.60.94.32:1935/live/cs18.stream/playlist.m3u8
-
  EXTINF:-1 ,《复仇者?盟》
  http://cn2.zuidadianying.com/20180414/UdIpW9pw/index.m3u8
  EXTINF:-1 ,《复仇者?盟2-???元》
