@@ -1,29 +1,33 @@
 EXTM3U
-
- EXTINF:-1 ,《复仇者?盟》
+ EXTINF:-1 ,====== 复仇者联盟 ======
+ http://0/0.m3u8
+ EXTINF:-1 ,《复仇者联盟》
  http://cn2.zuidadianying.com/20180414/UdIpW9pw/index.m3u8
- EXTINF:-1 ,《复仇者?盟2-???元》
+ EXTINF:-1 ,《复仇者联盟2-奥创纪元》
  http://cn2.zuidadianying.com/20180415/0CTAPRlT/index.m3u8
- EXTINF:-1 ,《复仇者?盟3-?限??》
+ EXTINF:-1 ,《复仇者联盟3-无限战争》
  http://youku163.zuida-bofang.com/20180730/10436_460523b5/index.m3u8
-
+ EXTINF:-1 ,====== 鋼鐵俠 ======
+ http://1/1.m3u8
  EXTINF:-1 ,《鋼鐵俠-1》
  https://youku.video-yongjiu.com/20190213/F5kfEMyv/index.m3u8
  EXTINF:-1 ,《鋼鐵俠-2》
  http://cn2.zuidadianying.com/20180414/mdFTPx94/index.m3u8
  EXTINF:-1 ,《鋼鐵俠-3》
  https://zy.kakazy-yun.com/20171117/sA2LdkvE/index.m3u8
-
+ EXTINF:-1 ,====== 雷神 ======
+ http://2/2.m3u8
  EXTINF:-1 ,《雷神》
  http://cn2.zuidadianying.com/20180108/ocySYANP/index.m3u8
  EXTINF:-1 ,《雷神-黑暗世界》
  https://videos.fjhps.com/20180107/MIzjbD19/index.m3u8
  EXTINF:-1 ,《雷神-諸神黃昏》
  https://hao.czybjz.com/20180121/9B07O3rF/index.m3u8
-
- EXTINF:-1 ,《美???》
+ EXTINF:-1 ,====== 美国队长 ======
+ http://3/3.m3u8
+ EXTINF:-1 ,《美国队长》
  https://video.fjhps.com/20170915/L4hDhgDv/index.m3u8
- EXTINF:-1 ,《美???2》
+ EXTINF:-1 ,《美国队长2》
  https://video.fjhps.com/20170915/Ta19rjht/index.m3u8
- EXTINF:-1 ,《美???3》
+ EXTINF:-1 ,《美国队长3》
  https://hair.jingpin88.com/20171026/cQ7hsCrN/index.m3u8
