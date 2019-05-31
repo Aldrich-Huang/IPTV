@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1,動物星球
-http://qqq.okokip.com:8040/nimble_live/197/chunks.m3u8
-#EXTINF:-1,CN卡通
-http://qqq.okokip.com:8040/nimble_live/211/chunks.m3u8
-#EXTINF:-1,MOMO親子台
-http://qqq.okokip.com:8040/nimble_live/121/chunks.m3u8
 #EXTINF:-1,東森幼幼
-http://qqq.okokip.com:8040/nimble_live/51/chunks.m3u8
+http://120.52.73.75/58.99.33.1:1935/liveedge2/live_25_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf&aa=&as=&dr=&mmmm
 
 
 #EXTINF:-1,iLive|日本NEWS24 ライブ配信
