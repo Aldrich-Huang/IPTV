@@ -1,6 +1,118 @@
 #EXTM3U
-#EXTINF:-1,東森新聞
-http://ax.micaesoft.com/YMitv/YMITV_CN_DSnew.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 ,DISCOVERY-HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 ,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?nimabitv.m3u8
+
+#EXTINF:-1 ,Movies-3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 ,Movies-4
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,Movies-5
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电影直播", 科幻电影源
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电影直播", CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电影直播", 日本电影源
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="电影直播", 日本电影源
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+
+#EXTINF:-1 ,动画-88-优漫卡通
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+
+#EXTINF:-1 ,金鹰卡通
+http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8
+
+#EXTINF:-1 ,hollywood-movies-1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,hollywood-movies-2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,FOX-news
+http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,FOX-CINEMA
+http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
+
+#EXTINF:-1 ,News-ABC-News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 ,News-NHKWorld
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾博斯魅力，
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾非凡新闻台
+http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾東森新聞
+http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾华视新闻
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾东森美洲新闻台
+http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾凡新闻台
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾壹电视新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾壹电视新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾壹电视新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾中旺电视
+http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾超视
+http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾大爱电视
+http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾GOOD-1综合台，
+http://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾民視新闻台HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾TVBS新闻台HD
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾台视新闻HD
+http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾中天新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="台湾卫视", 台湾中天新闻HD
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8
+
 #EXTINF:-1,亞洲新聞
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1,NewTV動畫王國FHD
